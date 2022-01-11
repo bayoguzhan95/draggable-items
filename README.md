@@ -1,6 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 
+![bandicam 2022-01-12 01-04-37-239](https://user-images.githubusercontent.com/72581411/149029414-5e57b8f7-aa8f-4bbb-822e-607d6d5bfd12.gif)
 
 
 
@@ -12,7 +13,7 @@ First, run the development server:
 npm run dev
 
 
-https://user-images.githubusercontent.com/72581411/149029368-08526375-869a-4c42-8a5e-ae0402db71a1.mp4
+
 
 # or
 yarn dev
